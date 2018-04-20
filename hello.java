@@ -1,2 +1,4 @@
-System.out.println("Hello");
+public void greeting(msg){
+	System.out.println("Hello");
+}
 
